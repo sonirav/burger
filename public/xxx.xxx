@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Burger</title>
+  <link rel="stylesheet" type="text/css" href="./assets\css/burger_style.css">
+</head>
+<body>
+<div id='main'>
+	<div id='title'>Eat Da Burger</div>
+	<div id='mainimage' align="center"><img src='./assets\img/burgerhead.jpg' width="30%" align="center"></div>
+	<div id='mainbody'>
+
+	<div id ='store'><h2>Burger Store</h2><hr></div>
+	<div id='devour'><h2>Devour Record</h2><hr></div>
+	<div id ='dstore'></div>
+	<div id='ddevour'></div>
+			<div id='forminput'>
+				<form method="post"action="/">
+					<br><label><b>Burger Name:</b></label>
+					<input type="textarea"><br>
+					<button type="submit" >Add to Store</button>
+				</form>
+			</div>
+	</div>
+</div>
+</body>
+</html>
