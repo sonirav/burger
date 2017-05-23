@@ -1,4 +1,4 @@
- INSERT INTO burgers SET burger_name = 'Vegi Delight', devoured = 0;
- INSERT INTO burgers SET burger_name = 'Big Mac', devoured = 1;
- INSERT INTO burgers SET burger_name = 'Double Meat', devoured = 0;
- INSERT INTO burgers SET burger_name = 'Chicken Double', devoured = 1;
+ INSERT INTO burger SET burger_name = 'Vegi Delight', devour = 0;
+ INSERT INTO burger SET burger_name = 'Big Mac', devour = 1;
+ INSERT INTO burger SET burger_name = 'Double Meat', devour = 0;
+ INSERT INTO burger SET burger_name = 'Chicken Double', devour = 1;
